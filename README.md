@@ -10,8 +10,8 @@ The app visualizes spaces as 3D blocks inside a bounding box, applies weighted p
 ## Files
 
 - `program_creator.html`: main application
-- `space_parameters.csv`: example program input
-- `relationship_matrix.csv`: example relationship matrix
+- `space_parameters.csv`: minimal example program input
+- `relationship_matrix.csv`: minimal example relationship matrix
 
 ## What It Does
 
@@ -33,6 +33,7 @@ Notes:
 
 - The viewer loads `three.js` from `https://unpkg.com`, so an internet connection is required unless you vendor that dependency locally.
 - The HTML references an optional `HelveticaNowDisplay-Regular.ttf` file in the same folder. If it is missing, the app falls back to system fonts.
+- The bundled CSVs are intentionally small examples, not a full project dataset.
 
 ## Program CSV
 

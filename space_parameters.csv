@@ -1,19 +1,7 @@
-﻿code,zone_name,family,count,total_area_m2,ceiling_height_m,design_temp_C,length_m,depth_m,has_cores,core_count,core_diameter_m,core_contents,pocket_stiffness,pocket_separation,pocket_blobness,pocket_free_growth,total_area_with_count_m2
-COLL,Collaboration,PUB,1,460,5.87,20.9,19.93,30,FALSE,0,,,low,medium,medium,high,460
-OMOF,Offices & Meetings,PUB,1,445,3.12,21.3,19.28,30,FALSE,0,,,low,medium,medium,high,445
-PEPU,Public Engagement,PUB,1,1420,7.44,21.5,41.02,45,FALSE,0,,,low,medium,medium,high,1420
-TETE,Teaching & Events,PUB,1,1110,8.07,20.9,32.07,45,FALSE,0,,,low,medium,medium,high,1110
-AIS,Atomic/Ion/Spin,RES,1,4042.95,4.87,20.6,70.08,75,FALSE,0,,,high,medium,high,low,4042.95
-CHAR,Characterization,RES,1,2987.24,4.17,19.9,64.72,60,FALSE,0,,,high,medium,high,low,2987.24
-CSCO,Compute & Software,RES,1,2317.3,4.59,19.9,50.21,60,FALSE,0,,,high,medium,high,low,2317.3
-CMCR,Cryogenic Measurement,RES,1,1028.15,4.59,20.1,44.55,30,FALSE,0,,,high,medium,high,low,1028.15
-ECEL,Electronics & Control,RES,1,2085.63,4.5,20.2,60.25,45,FALSE,0,,,high,medium,high,low,2085.63
-FABR,Fabrication,RES,1,3733.38,3.95,20.1,64.71,75,FALSE,0,,,high,medium,high,low,3733.38
-OPOP,Optics & Photonics,RES,1,1377.69,4.18,20.5,39.8,45,FALSE,0,,,high,medium,high,low,1377.69
-BSC,Building Services & Circulation,SERV,1,627,3.29,19.5,27.17,30,FALSE,0,,,medium,high,low,low,627
-CSCL,Cleanroom Support,SERV,1,160,3.94,19.3,13.87,15,FALSE,0,,,medium,high,low,low,160
-LOGI,Logistics,SERV,1,610,4.7,19.8,26.43,30,FALSE,0,,,medium,high,low,low,610
-PLAN,Plant,SERV,1,1560,7.61,19.8,45.07,45,FALSE,0,,,medium,high,low,low,1560
-SAFE,Safety,SERV,1,315,3.94,19.7,27.3,15,FALSE,0,,,medium,high,low,low,315
-WELF,Welfare,SERV,1,145,3.84,19.7,12.57,15,FALSE,0,,,medium,high,low,low,145
-WIWO,Workshops & Integration,SERV,1,520,6.8,20.3,22.53,30,FALSE,0,,,medium,high,low,low,520
+code,space_type,family,count,length_m,depth_m,height_m
+LOBBY,Lobby,PUBLIC,1,18,12,6
+STUDIO,Studio,WORK,2,14,10,4
+MEET,Meeting Room,WORK,2,8,6,3.5
+CAFE,Cafe,PUBLIC,1,12,10,4
+SERVICE,Service Core,SERVICE,1,10,8,4
+VOID,Void,VOID,1,16,10,8
