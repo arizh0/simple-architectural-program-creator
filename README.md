@@ -7,6 +7,14 @@ Browser-based tool for generating a spatial architectural program from:
 
 The app visualizes spaces as 3D blocks inside a bounding box, applies weighted placement logic, and exports the result as JSON.
 
+## Screenshots
+
+Add screenshots to `docs/screenshots/` and reference them here. Suggested files:
+
+- `docs/screenshots/overview.png`: full interface view
+- `docs/screenshots/viewport.png`: 3D arrangement close-up
+- `docs/screenshots/isometric.png`: isometric or exported composition
+
 ## Files
 
 - `program_creator.html`: main application
@@ -83,3 +91,11 @@ The `Export JSON` button outputs:
 
 - This repository currently contains a single-file HTML application.
 - If you want fully offline use, download `three.min.js` locally and update the script tag in `program_creator.html`.
+
+## License
+
+This project is source-available for personal, educational, research, and
+non-commercial evaluation use only.
+
+Commercial use requires separate permission from the repository owner. See
+`LICENSE.txt`.

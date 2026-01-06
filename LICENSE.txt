@@ -1,0 +1,34 @@
+Simple Architectural Program Creator License
+
+Copyright (c) 2026 Ari Zh
+All rights reserved.
+
+Permission is granted to view, download, and use this software for personal,
+educational, research, and non-commercial evaluation purposes only.
+
+You may not:
+
+- use this software for commercial purposes
+- use this software within a company, consultancy, or other for-profit
+  organization except for internal non-commercial evaluation
+- sell, sublicense, host, distribute, or include this software in a paid
+  service, product, or workflow
+- remove this license text from copies of the software
+
+Commercial use requires prior written permission from the copyright holder and
+may require a paid commercial license.
+
+For the purposes of this license, "commercial use" includes any use intended
+for commercial advantage or monetary compensation, including internal business
+operations, client work, paid consulting, paid design services, SaaS, or use
+inside a for-profit company beyond evaluation.
+
+This software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and noninfringement. In no event shall the
+authors or copyright holders be liable for any claim, damages, or other
+liability, whether in an action of contract, tort, or otherwise, arising from,
+out of, or in connection with the software or the use or other dealings in the
+software.
+
+To request commercial licensing terms, contact the repository owner.
