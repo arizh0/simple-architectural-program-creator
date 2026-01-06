@@ -10,3 +10,4 @@ desktop.ini
 
 export.json
 *.png
+!docs/screenshots/*.png

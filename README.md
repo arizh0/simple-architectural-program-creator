@@ -9,11 +9,13 @@ The app visualizes spaces as 3D blocks inside a bounding box, applies weighted p
 
 ## Screenshots
 
-Add screenshots to `docs/screenshots/` and reference them here. Suggested files:
+Full interface view:
 
-- `docs/screenshots/overview.png`: full interface view
-- `docs/screenshots/viewport.png`: 3D arrangement close-up
-- `docs/screenshots/isometric.png`: isometric or exported composition
+![Overview](docs/screenshots/overview.png)
+
+3D viewport detail:
+
+![Viewport](docs/screenshots/viewport.png)
 
 ## Files
 
