@@ -1,11 +1,20 @@
 # Architectural Program Creator
 
-Browser-based tool for generating a spatial architectural program from:
+Architectural Program Creator is a browser-based spatial planning tool for
+turning a list of spaces and their relationships into an interactive 3D program
+diagram.
+
+It is designed for early-stage architectural thinking, when the goal is to test
+adjacencies, relative sizes, clustering, and overall spatial composition before
+moving into detailed modeling.
+
+The app reads:
 
 - a program CSV with space dimensions and metadata
 - a relationship matrix CSV with positive and negative adjacency weights
 
-The app visualizes spaces as 3D blocks inside a bounding box, applies weighted placement logic, and exports the result as JSON.
+It then places those spaces as 3D blocks inside a configurable boundary,
+visualizes them in real time, and exports the arrangement as JSON.
 
 ## Screenshots
 
