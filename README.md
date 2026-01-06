@@ -11,11 +11,11 @@ The app visualizes spaces as 3D blocks inside a bounding box, applies weighted p
 
 Full interface view:
 
-![Overview](docs/screenshots/overview.png)
+![Overview](docs/screenshots/interface.png)
 
 3D viewport detail:
 
-![Viewport](docs/screenshots/viewport.png)
+![Viewport](docs/screenshots/3d.png)
 
 ## Files
 
