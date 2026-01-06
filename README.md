@@ -79,38 +79,6 @@ The `Export JSON` button outputs:
 - type definitions
 - per-space geometry, color, center point, and rotation
 
-## Git Setup
-
-Initialize the repository:
-
-```powershell
-git init
-git add .
-git commit -m "Initial commit"
-```
-
-If you want the initial commit to use an older author and committer date:
-
-```powershell
-$env:GIT_AUTHOR_DATE="2026-01-06T12:16:00+00:00"
-$env:GIT_COMMITTER_DATE="2026-01-06T12:16:00+00:00"
-git commit -m "Initial commit"
-```
-
-Then add your remote and push:
-
-```powershell
-git branch -M main
-git remote add origin <your-repo-url>
-git push -u origin main
-```
-
-To verify the stored dates:
-
-```powershell
-git log --pretty=fuller -1
-```
-
 ## Notes
 
 - This repository currently contains a single-file HTML application.
